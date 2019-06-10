@@ -3,8 +3,7 @@ A script for scraping the NHL API for your favorite team's stats for a given sea
 
 Big credits to Drew Hynes for creating the official unofficial documentation of the NHL API: https://gitlab.com/dword4/nhlapi
 
-Created for pulling data into a Django app, visualizing data scraped from the NHL API for the Toronto Maple Leafs 2018-2019 regular season.
-
+Created for pulling data into a Django app, visualizing data scraped from the NHL API for the Toronto Maple Leafs 2018-2019 regular season: 
 https://goleafsgo.herokuapp.com/
 
 Running:
