@@ -19,4 +19,4 @@ season = "2018" # pulls from the 2018-2019 season
 team_id = 10 # team ID for the Leafs in the NHL API
 ```
 
-Model outputs are sent to the command line!
+Currently pulls core data for games and plays. Stores outputs as .json files and .csv's.
